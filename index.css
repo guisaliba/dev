@@ -26,9 +26,11 @@ body {
   margin: 0 auto;
 }
 
-#info span {
+.job {
   color: #353535;
+
   position: relative;
+
   font-size: 1.75rem;
   font-family: 'Sora';
   font-weight: 300;
